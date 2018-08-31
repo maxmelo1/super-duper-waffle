@@ -7,7 +7,7 @@ package superwaffle;
 
 /**
  *
- * @author gin
+ * @author Homer PicaXU
  */
 public class SuperWaffle {
 
@@ -15,10 +15,10 @@ public class SuperWaffle {
      * @param args the command line arguments
      */
     public static void main(String[] args) {
-        // TODO code application logic here
+        
+        carro c = new carro();
         
         
-        //aaaaaaaaaaaaa
     }
     
 }
